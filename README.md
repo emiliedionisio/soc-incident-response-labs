@@ -1,4 +1,3 @@
-```markdown
 # SOC Incident Response Labs
 
 A collection of hands-on Security Operations Center (SOC) and Digital Forensics & Incident Response (DFIR) labs completed in a virtual environment.
