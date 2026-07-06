@@ -25,10 +25,10 @@ These labs demonstrate practical incident response workflows using industry tool
 - Documentation
 - Security Operations (SOC)
 
+```markdown
 ## Labs
-| Lab | Description |
-| Lab 01 | Catalyst Incident Response |
-
+Lab	Description
+Lab 01	Catalyst Incident Response
 ## Environment
 - Ubuntu Linux
 - Docker
