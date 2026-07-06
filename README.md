@@ -51,6 +51,14 @@ Each lab contains:
 - post-incident reviews
 - troubleshooting notes
 
+## Repository Highlights
+
+- Managed security incidents using the Catalyst Incident Response platform
+- Investigated Indicators of Compromise (IoCs)
+- Performed threat intelligence lookups with VirusTotal and AbuseIPDB
+- Documented incident timelines, containment, and recovery
+- Troubleshot and deployed a Docker-based incident response environment on Ubuntu
+
 ## Author
 
 Emilie Dionisio
