@@ -29,24 +29,22 @@ These labs demonstrate practical incident response workflows using industry tool
 ## Labs
 Lab	Description
 Lab 01	Catalyst Incident Response
-
 Environment
-- Ubuntu Linux
-- Docker
-- Catalyst
-- VirusTotal
-- AbuseIPDB
-
+Ubuntu Linux
+Docker
+Catalyst
+VirusTotal
+AbuseIPDB
 Repository Structure
 lab-01-catalyst-incident-response/
 
 Each lab contains:
-- walkthrough
-- screenshots
-- incident reports
-- post-incident reviews
-- troubleshooting notes
 
+walkthrough
+screenshots
+incident reports
+post-incident reviews
+troubleshooting notes
 Author
 Emilie Dionisio
 
