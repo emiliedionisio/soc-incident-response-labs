@@ -26,25 +26,3 @@ These labs demonstrate practical incident response workflows using industry tool
 - Security Operations (SOC)
 
 ## Labs
-Lab	Description
-Lab 01	Catalyst Incident Response
-
-Environment
-Ubuntu Linux
-Docker
-Catalyst
-VirusTotal
-AbuseIPDB
-
-lab-01-catalyst-incident-response/
-Each lab contains:
-
-walkthrough
-screenshots
-incident reports
-post-incident reviews
-troubleshooting notes
-
-Author
-Emilie Dionisio
-Cybersecurity Student • SOC Analyst (Aspiring)
