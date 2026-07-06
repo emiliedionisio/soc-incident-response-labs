@@ -1,3 +1,4 @@
+```markdown
 # SOC Incident Response Labs
 
 A collection of hands-on Security Operations Center (SOC) and Digital Forensics & Incident Response (DFIR) labs completed in a virtual environment.
@@ -25,14 +26,26 @@ These labs demonstrate practical incident response workflows using industry tool
 - Documentation
 - Security Operations (SOC)
 
-```markdown
 ## Labs
 Lab	Description
 Lab 01	Catalyst Incident Response
+Environment
+Ubuntu Linux
+Docker
+Catalyst
+VirusTotal
+AbuseIPDB
+Repository Structure
+lab-01-catalyst-incident-response/
 
-## Environment
-- Ubuntu Linux
-- Docker
-- Catalyst
-- VirusTotal
-- AbuseIPDB
+Each lab contains:
+
+walkthrough
+screenshots
+incident reports
+post-incident reviews
+troubleshooting notes
+Author
+Emilie Dionisio
+
+Cybersecurity Student • SOC Analyst (Aspiring)
